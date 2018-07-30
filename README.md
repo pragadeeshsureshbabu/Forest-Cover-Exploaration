@@ -1,4 +1,4 @@
-# Forest-Cover-Exploaration
+# Forest-Cover-Exploration
 This was a kaggle competition. The solution of this notebook got me into the top 20% at the time of posting this.
 
 ## Data Description
