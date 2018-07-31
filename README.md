@@ -1,5 +1,5 @@
 # Forest-Cover-Exploration
-This was a kaggle competition. The solution of this notebook got me into the top 20% at the time of posting this.
+This is the solution (top 20%) in Kaggle: Forest Cover Exploration. .
 
 ## Data Description
 
