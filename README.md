@@ -34,3 +34,5 @@ The training set (15120 observations) contains both features and the Cover_Type.
 
 I used a variety of Classification models and ensemble methods to get the best possible result.
 
+https://nbviewer.jupyter.org/github/pragadeeshsureshbabu/Forest-Cover-Exploaration/blob/master/forest_kernel.ipynb
+
